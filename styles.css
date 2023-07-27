@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,300&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+}
+header p{
+    width: 100% !important;
+    font-size: 0.88rem !important;
+}
+p{
+    padding: 0;
+    margin: 0;
+}
+.fa-utensils , #top-p{
+    color: #F2994A;
+}
+.first-p{
+    color: #BDBDBD;
+    font-size: 10px;
+}
+.second-p{
+    font-size: 14px;
+}
+.savings-box{
+    width: 100%;
+}
+
+.ingredients-box{
+    width: 100% !important;
+}
+.number-div{
+    background-color: #F2994A;
+    border-radius: 6px;
+}
+#instructions div{
+    padding: 0;
+    margin: 0;
+}
+
+#source a{
+    color: #BDBDBD;
+}
+label, footer{
+    color: #828282;
+}
+label span{
+    color: #333333;
+    ;
+}
+.last-span{
+    color: #828282;
+}
+footer{
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    #header-p{
+        width: 52% !important;
+    }
+    .savings-box{
+        box-shadow: 0px 0px 20px 0px #0000001A;
+        border-radius: 12px;
+        width: 13.5rem;
+    }
+    .ingredients-box{
+        width: 50% !important;
+    }
+}
