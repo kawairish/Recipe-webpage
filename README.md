@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/kawairish/Recipe-webpage.git">
       Solution
     </a>
     <span> | </span>
@@ -62,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/kawairish/Recipe-webpage.git
 
 # Install dependencies
 $ npm install
@@ -81,6 +81,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://https://64c2c0cdfa6c590070fe0443--meek-medovik-7d2da1.netlify.app/)
 - GitHub [@kawairish](https://{github.com/kawairish})
 - 
